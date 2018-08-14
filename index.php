@@ -1,1 +1,1 @@
-<?php include_once("mydomain.html"); ?>
+<?php include_once("mobile-clear-shield.html"); ?>
