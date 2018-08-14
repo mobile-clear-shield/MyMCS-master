@@ -1,10 +1,10 @@
 {
-  "name": "My Domain Sample",
-  "description": "A simple example to brand your Salesforce My Domain",
-  "repository": "https://github.com/salesforceidentity/MyDomain-Sample",
-  "website": "https://www.salesforce.com/platform/identity",
-  "logo": "https://login.salesforce.com/logos/Salesforce/Salesforce/logo.png",  
-  "keywords": ["salesforce"],
+  "name": "My Mobile Clear Shield Domain",
+  "description": "Let Mobile Clear Shield give you the competitive edge!",
+  "repository": "https://github.com/mobile-clear-shield/MyMCS-master",
+  "website": "https://www.mobileclearshield.com",
+  "logo": "https://mobileclearshield--c.na73.content.force.com/servlet/servlet.ImageServer?id=0151I000001uno5&oid=00D1I000002MuVS&lastMod=1534208267000",  
+  "keywords": ["mobile clear shield"],
   "success_url": "/",
   "env": {
     "BUILDPACK_URL": "https://github.com/heroku/heroku-buildpack-php"
